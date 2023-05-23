@@ -344,6 +344,7 @@ li {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 10%;
 }
 
 .form > * {
@@ -355,7 +356,7 @@ li {
 
 .submit-btn {
   padding: 5%;
-  margin-top: 20%;
+  margin-top: 30%;
   width: 40%;
   background-color: #ff6b00;
   color: #f4f5f7;
@@ -364,5 +365,5 @@ li {
 .social {
   display: flex;
   justify-content: center;
-  margin-top: 10%;
+  margin-top: 40%;
 }
