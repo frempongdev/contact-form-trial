@@ -35,7 +35,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Personal Portfoli] <a name="about-project"></a>
+# 📖 [Personal Portfolio] <a name="about-project"></a>
 
 
 **Personal-Portfolio** is  the first GitHub Repositiory to show my coding skill.
